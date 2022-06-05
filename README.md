@@ -12,10 +12,10 @@ appsettings.json
 [![back3.png](https://i.postimg.cc/c49w5VnY/back3.png)](https://postimg.cc/ykRDDpnY)
 
 Permisos.cs
-[![permiso.png](https://i.postimg.cc/TP7HQkc3/permiso.png)](https://postimg.cc/p9jZLJ7w)
+[![p1.png](https://i.postimg.cc/rF4XsLNC/p1.png)](https://postimg.cc/F7hnC8q7)
 
 TipoPermisos.cs
-[![Tipopermiso.png](https://i.postimg.cc/C5DPhwpR/Tipopermiso.png)](https://postimg.cc/9wmt15M2)
+[![p2.png](https://i.postimg.cc/dVKMTSWM/p2.png)](https://postimg.cc/zVp2spZp)
 
 Ejecucion BackEnd
 [![foto1.png](https://i.postimg.cc/wM9LSz25/foto1.png)](https://postimg.cc/mz6PH00h)
