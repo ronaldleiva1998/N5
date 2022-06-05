@@ -1,0 +1,38 @@
+
+body {
+    background: #141E30;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.material-icons {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+.form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+  }
+  
+  .form-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -5px;
+    margin-left: -5px;
+  }
+  
+  .form-row > .col {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  
+  label {
+    margin-bottom: 0.5rem;
+  }
